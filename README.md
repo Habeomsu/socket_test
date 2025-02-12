@@ -43,6 +43,24 @@
    ```bash
    brew update
    ```
+2. **RabbitMQ 설치하기**:
+   ```bash
+   brew install rabbitmq
+   ```
+3. **RabbitMQ 위치 체크**:
+   ```bash
+   brew info rabbitmq
+   ```
+4. **RabbitMQ 실행하기**:
+   ```bash
+   brew services start rabbitmq
+   ```
+5. **RabbitMQ 끝내기**:
+   ```bash
+   brew services stop rabbitmq
+   ```
+
+
    
    
 
